@@ -1,5 +1,4 @@
 # engineering-student
 This is my first Git Repository.
 <br>
-Author - Arjun Solanki
-student
+Author - Arjun Solanki (B.tech student)
